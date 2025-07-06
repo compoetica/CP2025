@@ -1,0 +1,1 @@
+Repositório do site do Compoética 2025 - Encontro Brasileiro de Programação Criativa.
